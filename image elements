@@ -1,0 +1,4 @@
+# <img src=url /> self closing tag, url should be the location of the image, url or file path
+
+can also add an alt attribute to this tag, alternative text description, people who are visually impaired or blind can't see the photo
+alt attribute add a description of the image
