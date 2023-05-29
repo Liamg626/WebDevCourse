@@ -1,0 +1,15 @@
+# <a> anchor elements allow you to add information to a tag, i.e adding hyperlinks
+
+html attributes
+
+<tag attribute=value>Content</tag>
+
+<a href="https://www.google.com">Google Link</a>
+
+or 
+
+<a draggable=true> Drag Me </a>
+
+two types of attributes, global and specific
+global can be used by any tag i.e class or id
+specific attributes are onlyh available to specific tags i.e href
