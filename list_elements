@@ -1,0 +1,16 @@
+# unordered list <ul> contain content enclosed in list items, <li>
+
+<ul>
+  <li></li>
+</ul>
+
+#previews as bullet points
+
+# ordered list <ol> containt content enclosed in list items, <li>
+
+<ol>
+  <li></li>
+</ol>
+
+# previews as numbered items
+
