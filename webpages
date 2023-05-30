@@ -1,0 +1,4 @@
+# use file paths to make multi page websites
+have a home.html, about.html and contact.html
+
+can access these files using anchor tags and setting the href to the file path of the other html files
