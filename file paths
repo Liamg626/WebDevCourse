@@ -1,0 +1,4 @@
+# file paths work as a location for a file, used to link to images or css or js in html files
+
+../ means to go backwards one step, so can work froward and backward through file paths
+./ means to use the current folder / directory
