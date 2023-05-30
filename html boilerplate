@@ -1,0 +1,11 @@
+<!DOCTYPE html> - tells the browser what version of html the code was written in, this is for html 5
+<html lang="en"> - language of the text content within the website
+  <head> - doesn't include any content but provides info for the browser
+    <meta charset="UTF-8"> - what character set you're using, some won't allow emojis etc
+    <title>My Document</title> - used to explain what the website is, company name etc
+  </head>
+  
+  <body> - where all the content of the website goes
+  
+  </body>
+</html>
