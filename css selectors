@@ -9,3 +9,7 @@ this would select all elements with the class h (class=h)
 #h {
 this would select all elements with the id h (id=h)
 }
+
+h[draggable] {
+this selects all h elements with the attribute draggable
+}
