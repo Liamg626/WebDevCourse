@@ -1,0 +1,11 @@
+h1 {
+this would select every single h1 tag and apply the css styling to all of them
+}
+
+.h {
+this would select all elements with the class h (class=h)
+}
+
+#h {
+this would select all elements with the id h (id=h)
+}
