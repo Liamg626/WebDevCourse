@@ -1,0 +1,17 @@
+3 styles to adding css to a html file
+
+inline
+<tag style=...></tag>
+css goes in to the opening html tag
+
+interanl 
+<style> 
+  html {
+    .....
+  }
+</style>
+goes in between two style tags within the html document
+
+external
+<link rel="stylesheet" href="style.css">
+goes in the head section of the html document
